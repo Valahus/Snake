@@ -1,0 +1,8 @@
+    Mod structure info:
+
+    *deroulement:
+        mod_title
+        lvl_id lvl_title
+    *niveaux/lvl_id:
+        nr. objects
+        obj_type x y
